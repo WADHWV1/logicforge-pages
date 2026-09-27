@@ -3,5 +3,5 @@
 // Never put GitHub Copilot credentials or API tokens in this public file.
 window.LOGICFORGE_CONFIG = {
   apiBaseUrl: "",
-  githubRepo: "WADHWV1/LogicForge"
+  githubRepo: "WADHWV1/logicforge-pages"
 };
